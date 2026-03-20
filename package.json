@@ -1,0 +1,16 @@
+{
+  "name": "stop-getting-ignored",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync:brand": "node scripts/apply-brand-config.mjs",
+    "queue:generate": "node scripts/generate-post-queue.mjs",
+    "auth:login": "node scripts/login-profiles.mjs",
+    "auth:check": "node scripts/check-sessions.mjs",
+    "post:next": "node scripts/post-next.mjs"
+  },
+  "dependencies": {
+    "playwright": "latest"
+  }
+}
+

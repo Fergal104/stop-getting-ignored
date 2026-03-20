@@ -1,0 +1,32 @@
+{
+  "brand_name": "Stop Getting Ignored",
+  "subtitle": "Cold DM & Email Templates That Convert",
+  "gumroad_url": "https://ferguson558.gumroad.com/l/StopGettingIgnored",
+  "timezone": "Europe/London",
+  "platforms": [
+    "x",
+    "threads"
+  ],
+  "cadence": {
+    "post_days": [
+      "MO",
+      "TU",
+      "WE",
+      "TH",
+      "FR"
+    ],
+    "post_time": "09:30",
+    "batch_day": "SU",
+    "batch_time": "18:00",
+    "queue_size": 7
+  },
+  "limits": {
+    "x": 280,
+    "threads": 500
+  },
+  "queue_file": "automation/post-queue.json",
+  "seed_file": "automation/post-seeds.json",
+  "profile_dir": "automation/browser-profile",
+  "log_dir": "output/playwright"
+}
+

@@ -2,7 +2,7 @@ node_modules/
 output/
 automation/browser-profile/
 automation/session-state/
+.obsidian/
 .DS_Store
 server.out.txt
 server.err.txt
-

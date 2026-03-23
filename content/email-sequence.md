@@ -9,7 +9,7 @@ Body:
 
 Here is the free pack:
 
-[insert direct download link]
+https://fergal104.github.io/stop-getting-ignored/free/21-first-lines.txt
 
 Use it for cold email or DMs. The rule is simple: start with a visible observation, not a compliment.
 

@@ -2,6 +2,8 @@
   "brand_name": "Stop Getting Ignored",
   "subtitle": "Cold DM & Email Templates That Convert",
   "gumroad_url": "https://ferguson558.gumroad.com/l/StopGettingIgnored",
+  "site_url": "https://fergal104.github.io/stop-getting-ignored/",
+  "lead_magnet_url": "https://fergal104.github.io/stop-getting-ignored/free/21-first-lines.txt",
   "timezone": "Europe/London",
   "platforms": [
     "x",
@@ -29,4 +31,3 @@
   "profile_dir": "automation/browser-profile",
   "log_dir": "output/playwright"
 }
-
